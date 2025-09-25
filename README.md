@@ -39,7 +39,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 ## Disclaimer
 
-This project is for learning and portfolio purposes only. It is a clone and not the original Twitter website. All the assets like images, videos, and logos are the property of Netflix. No copyright infringement is intended.
+This project is for learning and portfolio purposes only. It is a clone and not the original Twitter website. All the assets like images, videos, and logos are the property of Twitter. No copyright infringement is intended.
 
 ---
 
