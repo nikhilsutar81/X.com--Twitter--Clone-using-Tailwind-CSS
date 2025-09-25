@@ -2,8 +2,8 @@
 
 This project is a static, responsive clone of the X.com (formerly Twitter) user interface, created for educational purposes to practice front-end development skills, particularly with Tailwind CSS.
 
-![Project Screenshot](./screenshot.png) 
-*(You can replace `screenshot.png` with an actual screenshot of your project)*
+## Preview
+<img width="1881" height="911" alt="Screenshot 2025-09-25 202612" src="https://github.com/user-attachments/assets/9c24313d-fc16-4d07-83b8-cebc06bf7a77" />
 
 ## ✨ Features
 
@@ -23,41 +23,24 @@ This project is a static, responsive clone of the X.com (formerly Twitter) user 
 
 Follow these instructions to get a copy of the project up and running on your local machine for development and testing purposes.
 
-### Prerequisites
-
-You need to have Node.js and npm (which comes with Node.js) installed on your machine.
-
 ### Installation
 
 1.  **Clone the repository:**
-    ```sh
+    ```bash
     git clone https://github.com/your-username/your-repository-name.git
     ```
 
 2.  **Navigate to the project directory:**
-    ```sh
+    ```bash
     cd "X.com (Twitter) Clone using Tailwind CSS"
     ```
 
-3.  **Install NPM packages:**
-    ```sh
-    npm install
-    ```
+3.  Open the `index.html` file in your favorite web browser.
 
-### Running the Project
+## Disclaimer
 
-This project uses Vite for a fast development server and Tailwind CSS for styling.
+This project is for learning and portfolio purposes only. It is a clone and not the original Twitter website. All the assets like images, videos, and logos are the property of Netflix. No copyright infringement is intended.
 
-1.  **Start the Tailwind CSS compiler in watch mode:**
-    This command will watch your `css/input.css` file and automatically rebuild `css/output.css` whenever you make changes.
-    ```sh
-    npm run build
-    ```
+---
 
-2.  **Start the Vite development server:**
-    In a new terminal, run the following command to serve your `index.html` file.
-    ```sh
-    npm run dev
-    ```
-
-    Open your browser and navigate to the local URL provided by Vite (usually `http://localhost:5173`).
+This project was created as a practice exercise to improve TailwindCSS skills.
